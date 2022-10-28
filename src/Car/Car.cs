@@ -1,3 +1,3 @@
-public class Car : ICar {
+public class Car {
 
 }
